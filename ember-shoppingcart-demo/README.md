@@ -5,10 +5,18 @@ A short introduction of this app could easily go here.
 
 This app, made on ember js is a demo app made for a shopping cart using ember components, controllers, data, adapter and serializers. 
 
+<img width="1440" alt="Screenshot 2023-02-01 at 2 42 23 AM" src="https://user-images.githubusercontent.com/51985523/215885718-69b00250-d3fe-487b-8d06-6e51e87f5c13.png">
+
+[Uploading Screenshot 2023-02-01 at 2.42.27 AM.png…]()
+
+<img width="1440" alt="Screenshot 2023-02-01 at 2 42 39 AM" src="https://user-images.githubusercontent.com/51985523/215885802-aa40c4e8-6a6e-4c46-8a7e-108d119ba379.png">
+
+<img width="1440" alt="Screenshot 2023-02-01 at 2 42 43 AM" src="https://user-images.githubusercontent.com/51985523/215885827-60fe1f73-2090-4c0d-8776-0073cd001aa7.png">
+
+<img width="1440" alt="Screenshot 2023-02-01 at 2 51 16 AM" src="https://user-images.githubusercontent.com/51985523/215886026-c348596e-c995-4c89-8d90-128f92a43d68.png">
 
 
-## Prerequisites
-
+## Prerequisites!
 You will need the following things properly installed on your computer.
 
 * [Git](https://git-scm.com/)
