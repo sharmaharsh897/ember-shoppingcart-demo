@@ -3,6 +3,10 @@
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
+This app, made on ember js is a demo app made for a shopping cart using ember components, controllers, data, adapter and serializers. 
+
+
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
