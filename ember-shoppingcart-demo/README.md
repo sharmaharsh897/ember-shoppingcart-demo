@@ -7,7 +7,7 @@ This app, made on ember js is a demo app made for a shopping cart using ember co
 
 <img width="1440" alt="Screenshot 2023-02-01 at 2 42 23 AM" src="https://user-images.githubusercontent.com/51985523/215885718-69b00250-d3fe-487b-8d06-6e51e87f5c13.png">
 
-[Uploading Screenshot 2023-02-01 at 2.42.27 AM.png…]()
+<img width="1440" alt="Screenshot 2023-02-01 at 2 42 27 AM" src="https://user-images.githubusercontent.com/51985523/215886285-bffe6e65-bd0e-454a-8230-2f5abf55af16.png">
 
 <img width="1440" alt="Screenshot 2023-02-01 at 2 42 39 AM" src="https://user-images.githubusercontent.com/51985523/215885802-aa40c4e8-6a6e-4c46-8a7e-108d119ba379.png">
 
